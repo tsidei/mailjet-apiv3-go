@@ -1,3 +1,3 @@
-module github.com/mailjet/mailjet-apiv3-go/v3
+module github.com/tsidei/mailjet-apiv3-go/v3
 
 go 1.13
